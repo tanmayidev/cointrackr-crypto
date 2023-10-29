@@ -69,7 +69,7 @@ function MarketUpdate() {
                 {data.map((item) => (
                   <Link
                     onClick={scrollTop}
-                    to={`cointrackr-crypto/coin/${item.id}`}
+                    to={`/cointrackr-crypto/coin/${item.id}`}
                     className="coin-row"
                     key={item.id}
                   >

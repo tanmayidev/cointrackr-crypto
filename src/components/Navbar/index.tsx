@@ -36,7 +36,7 @@ function Navbar() {
     <>
       <nav className={sticky ? "sticky-nav" : ""}>
         <div className="navbar">
-          <Link to="/cointrackr-crypto/">
+          <Link to="/cointrackr-crypto">
             <p onClick={goTop}>COINTRACKR</p>
           </Link>
           <ul>

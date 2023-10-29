@@ -55,7 +55,7 @@ function Hero() {
               {coinsLoad && <span className="loader"></span>}
               {data.map((item) => (
                 <Link
-                  to={`cointrackr-crypto/coin/${item.id}`}
+                  to={`/cointrackr-crypto/coin/${item.id}`}
                   key={item.id}
                   className="slider-coin"
                 >
