@@ -9,8 +9,8 @@ function App() {
     <>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/coin" element={<Coin />}>
+        <Route path="/cointrackr-crypto/" element={<Home />} />
+        <Route path="/cointrackr-crypto/coin" element={<Coin />}>
           <Route path=":coinId" element={<Coin />}></Route>
         </Route>
       </Routes>

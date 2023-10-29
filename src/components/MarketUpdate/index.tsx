@@ -30,7 +30,7 @@ function MarketUpdate() {
       <button
         key={i}
         onClick={() => setCurrentPage(i)}
-        className={i === currentPage ? "activePagi" : ""}
+        className={i === currentPage ? "activePage" : ""}
       >
         {i}
       </button>
@@ -69,7 +69,7 @@ function MarketUpdate() {
                 {data.map((item) => (
                   <Link
                     onClick={scrollTop}
-                    to={`/coin/${item.id}`}
+                    to={`cointrackr-crypto/coin/${item.id}`}
                     className="coin-row"
                     key={item.id}
                   >

@@ -501,7 +501,7 @@ nav a {
   cursor: pointer;
   background-color: #f3f2f4;
 }
-.market-content .activePagi {
+.market-content .activePage {
   background: linear-gradient(25deg, #2600fc, #ff00ea);
   color: #f3f2f4;
 }
