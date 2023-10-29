@@ -10,7 +10,7 @@
 
 ## About The Project
 
-Welcome to CryptoTracker, your go-to platform for tracking and trading cryptocurrencies while staying updated with the latest market trends. This frontend application provides an intuitive interface to seamlessly manage your crypto portfolio and stay informed about the dynamic cryptocurrency market.
+Welcome to **CoinTrackr**, your go-to platform for tracking and trading cryptocurrencies while staying updated with the latest market trends. This frontend application provides an intuitive interface to seamlessly manage your crypto portfolio and stay informed about the dynamic cryptocurrency market.
 
 - Live Demo : [Not Live Yet]()
 
