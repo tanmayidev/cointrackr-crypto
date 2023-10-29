@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="public/bitcoin.png"  alt="Logo" href="https://github.com/tanmayidev/cointrackr-crypto" >
+    <img src="public/bitcoin.png"  alt="Logo" href="https://github.com/tanmayidev/cointrackr-crypto" width="100px">
   </a>
 </div>
 
