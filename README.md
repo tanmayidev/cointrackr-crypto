@@ -1,46 +1,81 @@
-# Getting Started with Create React App
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="">
+    <img src="public/bitcoin.png"  alt="Logo" href="https://github.com/tanmayidev/cointrackr-crypto" >
+  </a>
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- ABOUT THE PROJECT -->
 
-## Available Scripts
+## About The Project
 
-In the project directory, you can run:
+Welcome to CryptoTracker, your go-to platform for tracking and trading cryptocurrencies while staying updated with the latest market trends. This frontend application provides an intuitive interface to seamlessly manage your crypto portfolio and stay informed about the dynamic cryptocurrency market.
 
-### `npm start`
+- Live Demo : [Not Live Yet]()
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Built With
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- React.js
+- SCSS
 
-### `npm test`
+<!-- GETTING STARTED -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started
 
-### `npm run build`
+### Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- npm
+  ```sh
+  npm install npm@latest -g
+  ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repo
+   ```sh
+   git clone https://github.com/tanmayidev/cointrackr-crypto.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Run the project
+   ```sh
+   npm run start
+   ```
 
-### `npm run eject`
+<!-- ROADMAP -->
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Features To Add
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+See the [open issues](https://github.com/tanmayidev/serene-shop/issues) for a full list of proposed features (and known issues).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<!-- CONTRIBUTING -->
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Contributing
 
-## Learn More
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'feat: add some amazing feature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## Commit Messages
+
+- feat - if this code change is to implement a feature
+- bugfix - if this code is to fix a bug
+- chore - if this code change is a refactoring or other type of change
+- trivial - a change that does not modify the code or configuration (e.g. update to
+  documentation)
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the [MIT License](./LICENSE).
