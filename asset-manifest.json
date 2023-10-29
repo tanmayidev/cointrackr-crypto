@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/cointrackr-crypto/static/css/main.86d67605.css",
-    "main.js": "/cointrackr-crypto/static/js/main.cd0ad8e6.js",
+    "main.js": "/cointrackr-crypto/static/js/main.b1111522.js",
     "static/media/choose-main.png": "/cointrackr-crypto/static/media/choose-main.39852b7511b28d44406f.png",
     "static/media/bitcoin.png": "/cointrackr-crypto/static/media/bitcoin.e146d46fb598ae0d8f43.png",
     "static/media/ethereum.png": "/cointrackr-crypto/static/media/ethereum.c6cffe78f0c6abc85da9.png",
     "static/media/footer-bg.png": "/cointrackr-crypto/static/media/footer-bg.e33c036e05f949cf81cb.png",
     "index.html": "/cointrackr-crypto/index.html",
     "main.86d67605.css.map": "/cointrackr-crypto/static/css/main.86d67605.css.map",
-    "main.cd0ad8e6.js.map": "/cointrackr-crypto/static/js/main.cd0ad8e6.js.map"
+    "main.b1111522.js.map": "/cointrackr-crypto/static/js/main.b1111522.js.map"
   },
   "entrypoints": [
     "static/css/main.86d67605.css",
-    "static/js/main.cd0ad8e6.js"
+    "static/js/main.b1111522.js"
   ]
 }
