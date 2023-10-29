@@ -26,9 +26,22 @@ Welcome to CryptoTracker, your go-to platform for tracking and trading cryptocur
 ### Prerequisites
 
 - npm
-  ```sh
+
+  ```ssh
   npm install npm@latest -g
   ```
+
+- sass
+
+```sh
+npm i -g sass
+```
+
+- compile sass
+
+```sh
+sass src/styles/styles.scss src/dist/styles.css --source-map
+```
 
 ### Installation
 
