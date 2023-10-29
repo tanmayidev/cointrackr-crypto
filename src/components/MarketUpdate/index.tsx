@@ -39,7 +39,7 @@ function MarketUpdate() {
 
   const scrollMarket = () => {
     window.scrollTo({
-      top: window.pageYOffset - 800,
+      top: window.scrollY - 800,
       behavior: "smooth",
     });
   };

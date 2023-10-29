@@ -1,4 +1,5 @@
 import ChooseBox from "../ChooseBox";
+const BitHand = require("../../images/chooseus/choose-main.png");
 
 function WhyUs() {
   return (
@@ -28,7 +29,7 @@ function WhyUs() {
                 />
               </div>
               <div className="choose-container__content__2">
-                <img src="/choose-main.png" alt="hand_img" />
+                <img src={BitHand} alt="hand_img" />
               </div>
               <div className="choose-container__content__3">
                 <ChooseBox

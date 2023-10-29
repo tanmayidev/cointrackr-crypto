@@ -2,6 +2,8 @@ import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { CoinMarket } from "../../types/Interface";
 import { COINS_MARKETS_API_URL } from "../../config/constants";
+const Btc = require("../../images/hero/bitcoin.png");
+const Eth = require("../../images/hero/ethereum.png");
 
 function Hero() {
   const [data, setData] = useState<CoinMarket[]>([]);
@@ -30,24 +32,18 @@ function Hero() {
     fetchData();
   }, [url]);
 
-  // console.log(data);
-
   return (
     <>
       <section id="home" className="hero-section">
         <div className="container">
           <div className="hero-content">
             <div className="hero-content__text">
-              <img className="btc-float" src="/bitcoin.png" alt="floating-el" />
+              <img className="btc-float" src={Btc} alt="floating-el" />
               <h1>
                 Track and Trade
                 <br /> <span>Crypto currencies</span>
               </h1>
-              <img
-                className="eth-float"
-                src="/ethereum.png"
-                alt="floating-el"
-              />
+              <img className="eth-float" src={Eth} alt="floating-el" />
             </div>
 
             {/* mobile btn */}
